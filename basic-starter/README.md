@@ -23,4 +23,6 @@ vim .eslintignore
 
 # Formatter
 npm install --save-dev prettier
+vim .prettierrc
+vim .prettierignore
 ```
