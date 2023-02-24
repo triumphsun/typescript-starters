@@ -10,4 +10,5 @@ vim .npmrc
 
 # Typescript
 npm install --save-dev typescript
+npx tsc --init   # It will create the file /tsconfig.json
 ```
