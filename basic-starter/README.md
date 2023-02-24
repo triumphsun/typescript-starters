@@ -18,4 +18,6 @@ npx ts-jest config:init   # It will create the file /jest.config.js
 
 # Linter
 npm install --save-dev eslint
+npx eslint --init  # It will create the file /.eslintrc.js
+vim .eslintignore
 ```
