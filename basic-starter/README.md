@@ -7,4 +7,7 @@ vim .nvmrc
 # NPM
 npm init
 vim .npmrc
+
+# Typescript
+npm install --save-dev typescript
 ```
