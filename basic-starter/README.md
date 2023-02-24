@@ -20,4 +20,7 @@ npx ts-jest config:init   # It will create the file /jest.config.js
 npm install --save-dev eslint
 npx eslint --init  # It will create the file /.eslintrc.js
 vim .eslintignore
+
+# Formatter
+npm install --save-dev prettier
 ```
