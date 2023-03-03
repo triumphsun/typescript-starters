@@ -29,4 +29,5 @@ vim .prettierignore
 # Git hooks
 npm install --save-dev lint-staged
 vim .lintstagedrc.json
+npm install --save-dev husky
 ```
