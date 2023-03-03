@@ -30,4 +30,9 @@ vim .prettierignore
 npm install --save-dev lint-staged
 vim .lintstagedrc.json
 npm install --save-dev husky
+vim .huskyrc.json
+
+cd ..
+mkdir .husky
+npx husky install
 ```
