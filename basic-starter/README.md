@@ -25,4 +25,7 @@ vim .eslintignore
 npm install --save-dev prettier
 vim .prettierrc
 vim .prettierignore
+
+# Git hooks
+npm install --save-dev lint-staged
 ```
