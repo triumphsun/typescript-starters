@@ -28,4 +28,5 @@ vim .prettierignore
 
 # Git hooks
 npm install --save-dev lint-staged
+vim .lintstagedrc.json
 ```
