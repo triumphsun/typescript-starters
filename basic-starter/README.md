@@ -6,4 +6,5 @@ vim .nvmrc
 
 # NPM
 npm init
+vim .npmrc
 ```
