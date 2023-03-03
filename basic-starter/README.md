@@ -1,4 +1,3 @@
-
 ```bash
 # NVM
 nvm use 16.18.1
@@ -35,4 +34,5 @@ vim .huskyrc.json
 cd ..
 mkdir .husky
 npx husky install
+npx husky add .husky/pre-commit "cd basic-starter && npx lint-staged && cd .."  # Install a pre-commit hook
 ```
